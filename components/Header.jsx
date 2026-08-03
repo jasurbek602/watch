@@ -20,7 +20,7 @@ export default function Header({
 
         <div className="flex items-center gap-4">
           <a
-            href="https://instagram.com/"
+            href="https://www.instagram.com/selle_ruz"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -29,7 +29,7 @@ export default function Header({
             <FaInstagram />
           </a>
           <a
-            href="https://t.me/"
+            href="https://t.me/selle_ruz"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Telegram"
